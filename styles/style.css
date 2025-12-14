@@ -73,6 +73,7 @@
     text-transform: uppercase;
     line-height: 115%;
     color: #ffffff;
+    gap: 20px;
 }
 
 .aligned-text {
