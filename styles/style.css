@@ -90,6 +90,11 @@
     text-align: right;
 }
 
+.aligned-text_upper,
+.aligned-text_center {
+    margin-bottom: 20px;
+}
+
 .letter-spacing-extended {
     letter-spacing: 30px;
 }
