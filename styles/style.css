@@ -146,7 +146,7 @@
 
 .lots__card-list-item {
     width: 334px;
-    min-height: 563px;
+    min-height: 596px;
 }
 
 .card-link {
@@ -157,7 +157,7 @@
 .card {
     position: relative;
     height: 100%;
-    padding: 50px 40px;
+    padding: 48px 40px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
