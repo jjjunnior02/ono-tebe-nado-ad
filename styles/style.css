@@ -139,10 +139,11 @@
 
 .lots__card-list {
   display: grid;
-  grid-template-columns: repeat(3, 334px);
+  grid-template-columns: repeat(auto-fit, minmax(334px, 1fr));
   gap: 25px;
   list-style: none;
 }
+
 
 .lots__card-list-item {
   min-height: 563px;
